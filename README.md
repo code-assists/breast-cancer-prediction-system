@@ -100,7 +100,7 @@ We provide **Source Code, Project Report, Synopsis, PPT, Documentation, and Vide
 📩 **Email:** [codeassists@gmail.com](mailto:codeassists@gmail.com)  
 📱 **Phone / WhatsApp:** [+91-8470010001](https://wa.me/918470010001?text=Hello%20Team%2C%20I%20am%20interested%20in%20Breast%20Cancer%20Prediction%20System%20project) 👉 [Chat Now](https://wa.me/918470010001?text=Hello%20Team%2C%20I%20am%20interested%20in%20Breast%20Cancer%20Prediction%20System%20project)  
 🌐 **Websites:** [CodeAssists](http://codeassists.com/), [FreeProjectz](https://www.freeprojectz.com/)  
-📌 **Project Link:** [[Breast Cancer Prediction System – Source Code]([https://www.freeprojectz.com/python-django-projects/breast-cancer-prediction-system](https://www.freeprojectz.com/django-projects-machine-learning-projects-python-projects-major-project/breast-cancer-prediction))](https://www.freeprojectz.com/django-projects-machine-learning-projects-python-projects-major-project/breast-cancer-prediction)  
+📌 **Project Link:** ([https://www.freeprojectz.com/python-django-projects/breast-cancer-prediction-system](https://www.freeprojectz.com/django-projects-machine-learning-projects-python-projects-major-project/breast-cancer-prediction))
 
 ---
 
