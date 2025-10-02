@@ -7,7 +7,7 @@ It is designed for **Final Year Computer Science Students (B.Tech, MCA, M.Tech, 
 ---
 
 ## 📺 Project Demo
-▶️ **YouTube Video**: [(https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)  ](https://www.youtube.com/watch?v=ROW8KomdIeg)
+▶️ **YouTube Video**: (https://www.youtube.com/watch?v=ROW8KomdIeg)
 <img width="1854" height="1536" alt="Breast Cancer Prediction System using Machine Learning" src="https://github.com/user-attachments/assets/7645b44e-5c6b-44c4-872b-97f0e163e580" />
 
 ---
